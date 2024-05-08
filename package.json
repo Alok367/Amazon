@@ -1,0 +1,22 @@
+{
+  "name": "htmlreact",
+  "version": "1.0.0",
+  "description": "html with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "react"
+  ],
+  "author": "Naresh i technology",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/standalone": "^7.23.10",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "bootstrap": "^5.3.2",
+    "react-router-dom": "^6.21.3"
+  }
+}
